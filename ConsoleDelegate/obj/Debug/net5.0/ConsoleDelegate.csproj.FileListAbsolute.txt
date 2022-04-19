@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.exe
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.deps.json
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.runtimeconfig.json
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.dll
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\bin\Debug\net5.0\ref\ConsoleDelegate.dll
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\bin\Debug\net5.0\ConsoleDelegate.pdb
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.dll
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\obj\Debug\net5.0\ref\ConsoleDelegate.dll
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.pdb
+C:\Users\User\source\repos\CSharpPart4\ConsoleDelegate\obj\Debug\net5.0\ConsoleDelegate.genruntimeconfig.cache
